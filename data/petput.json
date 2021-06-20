@@ -1,0 +1,19 @@
+
+{
+  "id": 4200,
+  "category": {
+    "id": 0,
+    "name": "dog"
+  },
+  "name": "Snoopy",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "adotar"
+    }
+  ],
+  "status": "adotado"
+}
